@@ -1,0 +1,18 @@
+{
+	"createemployee": 	{
+	   
+	    "fname": "Preetesh",
+	    "lname": "Mistri",
+	    "mobileNo": "32455553435",
+	    "address": "Pune",
+	    "emailId": "Preetesh@gmail.com"
+	  },
+	"updateemployee": 	  {
+	    
+	      "fname": "Rajeshwar",
+	      "lname": "Patil",
+	      "mobileNo": "3245553435",
+	      "address": "Pune",
+	      "emailId": "rajesh@gmail.com"
+	    }
+}
